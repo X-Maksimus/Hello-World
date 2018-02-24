@@ -1,3 +1,4 @@
 # Hello-World
-! ya-hooo
-This is new brabch jf Hellow world!
+! ya-hooo!
+This is new brabch of Hellow world readme.md file.
+
